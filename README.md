@@ -144,3 +144,7 @@ These items are generally available from overseas online sellers via Temo and Al
 ### Child car seats
 At least one owner reports that it is possible to fit 3 car seats in the back: 1 booster, 1 forward facing, 1 backwards facing.
 
+For example:
+
+![3 Car Seats in the back]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/demaniak/south-africa-faq-geely-e2-2026/refs/heads/main/pics/3-kid-seats-1.jpg))
+
