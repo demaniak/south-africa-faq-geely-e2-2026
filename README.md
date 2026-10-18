@@ -63,6 +63,16 @@ Charger Spec
 The charger can be installed by any qualified electrician. Be sure to obtain a Certificate of Compliance (CoC) as well.
 
 ### In Public
+For public **AC** charging, you will often require your own Type 2 AC charge cable. There are local persons and operations that can supply this.
+
+For **DC** charging, cable will be permanently attached to the charger.
+
+My advice is always,if you are a first time EV owner, make a deliberate test run to a public charger, when you are calm and have plenty of time, to go and try the public charging. It is not hard, but often you need a few minutes to get the apps working. RFID cards makes this a lot easier, which is why that is advised as "must" have above.
+
+Not all **C**harge **P**oint **O**perators use RFID cards though, so you might still need apps. 
+You will need the apps even with RFID cards, since that is the most convenient way to top-up your account.
+
+Some CPOs are rolling out credit card payments. This might make things easier - time will tell.
 
 ## Discharging (V2L)
 The E2 supports discharging (i.e. supplying power to external loads) via it's charge port, up to +-3kW/h
