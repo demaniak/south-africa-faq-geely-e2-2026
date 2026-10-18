@@ -17,6 +17,8 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 | ---------- | ------ |
 | Battery    | 39.4   | 
 | WLTP Range | 325Km  | 
+| AC charging | 6.7kW/h *(6.4?)* |
+| DC Charging | 70kW/h |
 
 *TODO rather link or copy official spec sheet? probably legally questionable to copy in?*
 
@@ -49,6 +51,16 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 ## Charging
 
 ### At home
+At time of writing, buyers should still receive a Geely branded Wallbox charger with the vehicle purchase. This might change in future.
+
+Charger Spec
+
+| Item | Value |
+| ---- | ----- | 
+| kW/h | 7 |
+| Connected features| None |
+
+The charger can be installed by any qualified electrician. Be sure to obtain a Certificate of Compliance (CoC) as well.
 
 ### In Public
 
