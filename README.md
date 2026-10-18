@@ -19,6 +19,7 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 | WLTP Range | 325Km  | 
 | AC charging | 6.7kW/h *(6.4?)* |
 | DC Charging | 70kW/h |
+| Spare wheel| Hahaha NO |
 
 *TODO rather link or copy official spec sheet? probably legally questionable to copy in?*
 
