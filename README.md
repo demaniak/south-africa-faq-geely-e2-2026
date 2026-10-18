@@ -96,14 +96,20 @@ TODO
 
 ### Wheels and Tyres
 
-### Misc
+### Misc things you probably want
 Various items you might want to consider buying after market:
 - Mudflaps
-- Interior car mats
-- Boot mat
+- Interior car mats (there are local suppliers that do fit perfectly)
+- Boot mat  (there are local suppliers that do fit perfectly)
 - Frunk liner
 - Center console (top and bottom) silicon covers
 - Door storage silicon inserts
 - Boot light
+- Car seat covers (there are local suppliers, that *almost* fit perfectly)
 
-These items are generally available from overseas online sellers via Temo and AliExpress
+These items are generally available from overseas online sellers via Temo and AliExpress, and some as noted, from local producers/suppliers.
+
+## All the rest
+### Child car seats
+At least one owner reports that it is possible to fit 3 car seats in the back: 1 booster, 1 forward facing, 1 backwards facing.
+
