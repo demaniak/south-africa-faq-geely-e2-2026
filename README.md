@@ -1,14 +1,26 @@
 # Frequently Asked Questions regarding the Geely E2 (2026), South Africa
+
+*Last updated 2026-10-18*
+
 Frequently Asked Questions regarding the Geely E2 2026 (South Africa)
 
 The information herein is specific to the Geely E2 (Aspire and Apex) variants launched in South Africa, during 2026.
 
 If you are driving something else, the info MIGHT be applicable, or it might not be. Usage is at your own risk.
 
-*Last updated 2026-10-18*
 
 ## Specs
-TODO
+
+### Both Variants
+| Item       | Value  | 
+| Battery    | 39.4   | 
+| WLTP Range | 325Km  | 
+
+### Apex
+| Item       | Value  | 
+
+### Aspire
+| Item       | Value  | 
 
 ### Aspire
 TODO
