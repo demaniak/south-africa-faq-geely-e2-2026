@@ -12,14 +12,17 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 ## Specs
 
 ### Both Variants
+
 | Item       | Value  | 
 | Battery    | 39.4   | 
 | WLTP Range | 325Km  | 
 
 ### Apex
+
 | Item       | Value  | 
 
 ### Aspire
+
 | Item       | Value  | 
 
 ### Aspire
