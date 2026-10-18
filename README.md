@@ -73,7 +73,7 @@ Please ensure you obtain *high* quality equipment, since this it not an area you
 There are local suppliers that can assist in South Africa (TODO - hm, free advertising here for you-know-who??)
 
 ### Connecting V2L with your home
-An interesting option, assuming suitable V2L equipment, is to enable your car to feed power into your hone inverter or DB possibly.
+An interesting option, assuming suitable V2L equipment, is to enable your car to feed power into your home inverter or DB possibly.
 
 That means you can directly charge your PV system battery from your car, or feed some house hold loads, with the car.
 
