@@ -109,6 +109,11 @@ Various items you might want to consider buying after market:
 
 These items are generally available from overseas online sellers via Temo and AliExpress, and some as noted, from local producers/suppliers.
 
+## Issues
+| Item | Details | Resolution | Notes |
+| ---- | ------- | ---------- | ----- |
+| Wheel alignmnet| A few user have experience steering alignment issues after taking delivery of new vehicles | Some have been resolved with standard wheel alignment, some struggled. a handful might still be facing issues. | if experienced with new purchases, start with dealer, they are supposed to fix it. if they don't try going to tyre place yourself. if that does not resolve, escalate |
+
 ## All the rest
 ### Child car seats
 At least one owner reports that it is possible to fit 3 car seats in the back: 1 booster, 1 forward facing, 1 backwards facing.
