@@ -146,5 +146,6 @@ At least one owner reports that it is possible to fit 3 car seats in the back: 1
 
 For example:
 
-![3 Car Seats in the back](https://raw.githubusercontent.com/demaniak/south-africa-faq-geely-e2-2026/refs/heads/main/pics/3-kid-seats-1.jpg)
+![3 Car Seats in the back 1 ](https://raw.githubusercontent.com/demaniak/south-africa-faq-geely-e2-2026/refs/heads/main/pics/3-kid-seats-1.jpg)
+![3 Car Seats in the back 2 ](https://raw.githubusercontent.com/demaniak/south-africa-faq-geely-e2-2026/refs/heads/main/pics/3-kid-seats-2.jpg)
 
