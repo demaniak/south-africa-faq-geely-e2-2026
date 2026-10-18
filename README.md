@@ -30,7 +30,17 @@ TODO
 
 ## Charging
 
+### At home
+
+### In Public
+
 ## Discharging (V2L)
+The E2 supports discharging (i.e. supplying power to external loads) via it's charge port, up to +-3kW/h
+
+You will need to obtain a suitable V2L cable/adapter for this function however, since, like so many other things, it is not supplied with the sale of the vehicle.
+
+Please ensure you obtain *high* quality equipment, since this it not an area you want to invite Surprise Fire. 
+There are local suppliers that can assist in South Africa (TODO - hm, free advertising here for you-know-who??)
 
 ## Parts and Repairs
 
