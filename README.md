@@ -120,9 +120,12 @@ Various items you might want to consider buying after market:
 These items are generally available from overseas online sellers via Temo and AliExpress, and some as noted, from local producers/suppliers.
 
 ## Issues
+
 | Item | Details | Resolution | Notes |
 | ---- | ------- | ---------- | ----- |
 | Wheel alignmnet| A few user have experience steering alignment issues after taking delivery of new vehicles | Some have been resolved with standard wheel alignment, some struggled. a handful might still be facing issues. | if experienced with new purchases, start with dealer, they are supposed to fix it. if they don't try going to tyre place yourself. if that does not resolve, escalate |
+| Wired Android Auto not connecting | AA does not connect | Try a few, high quality cables | Not sure if Apple Car Play users have had such an issue? |
+
 
 ## All the rest
 ### Child car seats
