@@ -72,6 +72,20 @@ You will need to obtain a suitable V2L cable/adapter for this function however, 
 Please ensure you obtain *high* quality equipment, since this it not an area you want to invite Surprise Fire. 
 There are local suppliers that can assist in South Africa (TODO - hm, free advertising here for you-know-who??)
 
+### Connecting V2L with your home
+An interesting option, assuming suitable V2L equipment, is to enable your car to feed power into your hone inverter or DB possibly.
+
+That means you can directly charge your PV system battery from your car, or feed some house hold loads, with the car.
+
+Note, again, qualified electrician required.
+
+## Extension cables (portable charger)
+**DANGER - the following is advice you use at your OWN risk**
+
+The official, sensible, guidance is "do NOT use an extension cable with your portable charger".
+
+However, the official portable charger has insufficient reach (cable length) for many situation. 
+
 ## Parts and Repairs
 
 ## After market mods
