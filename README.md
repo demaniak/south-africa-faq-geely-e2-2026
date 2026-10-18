@@ -62,6 +62,9 @@ Charger Spec
 
 The charger can be installed by any qualified electrician. Be sure to obtain a Certificate of Compliance (CoC) as well.
 
+When charging at max AC capacity (32 Amps on the Energy app on your car's head unit), the wallbox will pull +-30A from your power (7kW/h). 
+This is considered to be a pretty large load for a residential circuit, but should be completely safe. BUT, be aware, that you might want to ensure other heavy appliances (geyser, stove etc) are not active while charging at full capacity.
+
 ### In Public
 For public **AC** charging, you will often require your own Type 2 AC charge cable. There are local persons and operations that can supply this.
 
@@ -73,6 +76,22 @@ Not all **C**harge **P**oint **O**perators use RFID cards though, so you might s
 You will need the apps even with RFID cards, since that is the most convenient way to top-up your account.
 
 Some CPOs are rolling out credit card payments. This might make things easier - time will tell.
+
+### Portable charger
+The portable charger does max 16 Amp, or +- 3kW/h.
+
+South African household plugs are generally rated for **max** 16 Amps. 
+Unless you are **very** sure about your home plug wiring, it is advised to limit your portable charging session to a lower Amp setting via the car's built in "Energy" app on the head unit.
+10A is generally considered on the safe side by the community.
+
+The problem is that even if your plug can handle 16A for a short while (5min?), your car will be charging for *hours*. We have reports of lower quality wall plugs melting at 16A charging. No body likes Surprise Fire - better safe than sorry!
+
+#### Extension cables
+**DANGER - the following is advice you use at your OWN risk**
+
+The official, sensible, guidance is "do NOT use an extension cable with your portable charger".
+
+However, the official portable charger has insufficient reach (cable length) for many situation. 
 
 ## Discharging (V2L)
 The E2 supports discharging (i.e. supplying power to external loads) via it's charge port, up to +-3kW/h
@@ -88,13 +107,6 @@ An interesting option, assuming suitable V2L equipment, is to enable your car to
 That means you can directly charge your PV system battery from your car, or feed some house hold loads, with the car.
 
 Note, again, qualified electrician required.
-
-## Extension cables (portable charger)
-**DANGER - the following is advice you use at your OWN risk**
-
-The official, sensible, guidance is "do NOT use an extension cable with your portable charger".
-
-However, the official portable charger has insufficient reach (cable length) for many situation. 
 
 ## Parts and Repairs
 
