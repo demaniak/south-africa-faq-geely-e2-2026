@@ -18,6 +18,8 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 | Battery    | 39.4   | 
 | WLTP Range | 325Km  | 
 
+*TODO rather link or copy official spec sheet? probably legally questionable to copy in?*
+
 ### Apex
 
 | Item       | Value  | 
