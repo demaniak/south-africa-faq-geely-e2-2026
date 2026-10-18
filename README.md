@@ -21,10 +21,12 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 ### Apex
 
 | Item       | Value  | 
+| ---------- | ------| 
 
 ### Aspire
 
 | Item       | Value  | 
+| ---------- | ------| 
 
 ### Aspire
 TODO
