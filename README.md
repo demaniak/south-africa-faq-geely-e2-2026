@@ -18,7 +18,7 @@ TODO
 
 ## Apps
 ### Must have
-- GridCars (ChargePocket). Also obtain their RFID card
+- GridCars (ChargePocket - [Apple](https://apps.apple.com/za/app/chargepocket/id6739615357) and [Android](https://play.google.com/store/apps/details?id=net.gridcars.chargepocket&hl=en_ZA)). Also obtain their RFID card
 - Rubicon. Also obtain their RFID card
 - A Better Route Planner (ABRP). *I am NOT affiliated with the authors in anyway, it is just a really useful app*
 
@@ -46,3 +46,6 @@ There are local suppliers that can assist in South Africa (TODO - hm, free adver
 
 ## After market mods
 **DANGER WILL ROBINSON! YOU DO THIS AT YOUR OWN RISK, ACKNOWLEDGING THAT IS MIGHT VOID YOUR WARRANTIES**
+
+### Wireless Android Auto and Apple Carplay
+TODO
