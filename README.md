@@ -49,3 +49,17 @@ There are local suppliers that can assist in South Africa (TODO - hm, free adver
 
 ### Wireless Android Auto and Apple Carplay
 TODO
+
+### Wheels and Tyres
+
+### Misc
+Various items you might want to consider buying after market:
+- Mudflaps
+- Interior car mats
+- Boot mat
+- Frunk liner
+- Center console (top and bottom) silicon covers
+- Door storage silicon inserts
+- Boot light
+
+These items are generally available from overseas online sellers via Temo and AliExpress
