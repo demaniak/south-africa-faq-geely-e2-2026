@@ -22,17 +22,15 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 
 | Item       | Value  | 
 | ---------- | ------| 
+| Connectivity feature| Mobile App |
+| Wheels | TODO |
 
 ### Aspire
 
 | Item       | Value  | 
 | ---------- | ------| 
+| Wheels | TODO |
 
-### Aspire
-TODO
-
-### Apex
-TODO
 
 ## Apps
 ### Must have
