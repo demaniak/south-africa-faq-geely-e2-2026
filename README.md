@@ -100,6 +100,14 @@ The problem is that even if your plug can handle 16A for a short while (5min?), 
 The official, sensible, guidance is "do NOT use an extension cable with your portable charger".
 
 However, the official portable charger has insufficient reach (cable length) for many situation. 
+For those case, you can consider a properly specced extension cable, which will be of at least 10AWG (or +- 2.5mm^2),copper, rated at 16A, no less.
+Janus coupler and South African plug also rated for 16A, of high quality.
+
+Test this for at least an hour to ensure not part of the connection is heating up.
+
+Ideally, limit your car charging to 10A (Energy app on the head unit).
+
+Remember, NOBODY likes Surprise Fire. 
 
 ## Discharging (V2L)
 The E2 supports discharging (i.e. supplying power to external loads) via it's charge port, up to +-3kW/h
