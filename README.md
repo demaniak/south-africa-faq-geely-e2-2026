@@ -62,6 +62,7 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 - don't worry to much about it, LFP chemistry is fairly forgiving (as compared to other chemistries).
 
 Information on best practices vary in detail from month-to-month it seems, but the core ideas so far seems stable.
+
 [Here is a reasonable resource at time for writing](https://unanswered.io/guide/optimal-charging-lfp-batteries-100-percent)
 
 ### At home
@@ -73,6 +74,9 @@ Charger Spec
 | ---- | ----- | 
 | kW/h | 7 |
 | Connected features| None |
+| "Smart" | No |
+| RFID card | No |
+| Water proof | "Splash Proof" |
 
 The charger can be installed by any qualified electrician. Be sure to obtain a Certificate of Compliance (CoC) as well.
 
