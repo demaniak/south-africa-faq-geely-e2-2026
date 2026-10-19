@@ -55,7 +55,7 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 
 ### Battery Health best practices (as per 2026)
 - must charge occasionally to 100%, for calibration and cell balancing. Car head unit says once a week `¯\_₍ッ₎_/¯`
-- do not let battery stand still at 100% for long (weeks?)
+- do not leave car parked at 100% battery SOC for "long" (weeks?)
 - sweet spot seems to be between 30 and 70 percent for "most of the time".
 - don't fast charge *all the time*
 - prefer deeper discharge, with less frequent charge sessions that then go further (80% or 100%)
