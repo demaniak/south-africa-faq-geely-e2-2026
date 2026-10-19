@@ -55,10 +55,14 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 
 ### Battery Health best practices (as per 2026)
 - must charge occasionally to 100%, for calibration and cell balancing.
-- do not let battery stand still at 100% for long (24 hours?)
+- do not let battery stand still at 100% for long (weeks?)
 - sweet spot seems to be between 30 and 70 percent for "most of the time".
 - don't fast charge *all the time*
+- prefer deeper discharge, with longer charge sessions (either to 80 or 100%)
 - don't worry to much about it, LFP chemistry is fairly forgiving (as compared to other chemistries).
+
+Information on best practices vary in detail from month-to-month it seems, but the core ideas so far seems stable.
+[Here is a reasonable resource at time for writing](https://unanswered.io/guide/optimal-charging-lfp-batteries-100-percent)
 
 ### At home
 At time of writing, buyers should still receive a Geely branded Wallbox charger with the vehicle purchase. This might change in future.
