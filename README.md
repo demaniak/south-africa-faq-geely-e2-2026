@@ -87,6 +87,10 @@ This is considered to be a pretty large load for a residential circuit, but shou
 ### In Public
 For public **AC** charging, you will often require your own Type 2 AC charge cable. There are local persons and operations that can supply this.
 
+The E2 AC charging is capped at 7kW/h, so unless you are future-proofing for another car that can take more, there is no point to buy a higher rated cable.
+
+Length is your choice, but know that longer cable probably means more voltage drop (losses), so you might end up paying more for the same final battery SOC.
+
 For **DC** charging, cable will be permanently attached to the charger.
 
 My advice is always,if you are a first time EV owner, make a deliberate test run to a public charger, when you are calm and have plenty of time, to go and try the public charging. It is not hard, but often you need a few minutes to get the apps working. RFID cards makes this a lot easier, which is why that is advised as "must" have above.
