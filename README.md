@@ -31,13 +31,14 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 
 | Item       | Value  | 
 | ---------- | ------| 
-| Connectivity feature| Mobile App |
+| Connectivity feature| 4G (probably), Mobile App. Can lock/unlock, open windows, schedule charging, turn AC on/off, locate(track) car |
 | Wheels | 205/60 R16 Tyre with 16" Alloy Wheels |
 
 ### Aspire
 
 | Item       | Value  | 
 | ---------- | ------| 
+| Connectivity feature| No |
 | Wheels | 205/65 R15 Tyre with 15" Steel Wheels |
 
 
