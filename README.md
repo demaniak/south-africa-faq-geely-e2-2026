@@ -25,8 +25,6 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 | DC Charging | 70kW/h |
 | Spare wheel| Hahaha NO |
 
-*TODO rather link or copy official spec sheet? probably legally questionable to copy in?*
-
 ### Apex
 
 | Item       | Value  | 
