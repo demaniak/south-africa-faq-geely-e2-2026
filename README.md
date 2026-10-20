@@ -159,7 +159,7 @@ TODO - some details on options?
 
 ### Misc things you probably want
 Various items you might want to consider buying after market:
-- Mesh grill for front air intake. _There are anecdotal evidence of rocks flying in there, and damaging the radiator - which is an occurrence not covered by Geely Warranty. Geely might also advise you that "any reduction in air intake volume might also void your Warranty", but since they will also not honor the Warranty for "externally caused" damage, you will have to weight the odds and consider your risk appetite._
+- Mesh grill for front air intake. _There are anecdotal evidence of rocks flying in there, and damaging the radiator - which is an occurrence not covered by Geely Warranty. Geely might also advise you that "any reduction in air intake volume might also void your Warranty", but since they will also not honor the Warranty for "externally caused" damage, you will have to weigh the odds and consider your risk appetite._
 - Mudflaps
 - Interior car mats (there are local suppliers that do fit perfectly)
 - Boot mat  (there are local suppliers that do fit perfectly)
