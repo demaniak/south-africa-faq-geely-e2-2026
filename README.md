@@ -13,6 +13,8 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 
 ## Specs
 
+[Spec sheet can be found here, until they take it down or something](https://drive.google.com/file/d/1ZMfKj4xKcFb9jfcwolPwAn750TSOGQ7B/view)
+
 ### Both Variants
 
 | Item       | Value | 
@@ -30,13 +32,13 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 | Item       | Value  | 
 | ---------- | ------| 
 | Connectivity feature| Mobile App |
-| Wheels | TODO |
+| Wheels | 205/60 R16 Tyre with 16" Alloy Wheels |
 
 ### Aspire
 
 | Item       | Value  | 
 | ---------- | ------| 
-| Wheels | TODO |
+| Wheels | 205/65 R15 Tyre with 15" Steel Wheels |
 
 
 ## Apps
