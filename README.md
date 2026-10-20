@@ -29,7 +29,7 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 
 | Item       | Value  | 
 | ---------- | ------| 
-| Connectivity feature| 4G (probably), Mobile App. Can lock/unlock, open windows, schedule charging, turn AC on/off, locate(track) car |
+| Connectivity feature| 4G (probably), Mobile App. Can lock/unlock, open windows, schedule charging, turn AC on/off, locate(track) car. To date, it is unclear if this service becomes a "paid" extra at some point, or if it is free forever. |
 | Wheels | 205/60 R16 Tyre with 16" Alloy Wheels |
 
 ### Aspire
