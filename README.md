@@ -61,7 +61,7 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 - do not leave car parked at 100% battery SOC for "long" (weeks?)
 - sweet spot seems to be between 30 and 70 percent for "most of the time".
 - don't fast charge *all the time*
-- prefer deeper discharge, with less frequent charge sessions that then go further (80% or 100%)
+- prefer deeper discharge, with less frequent charge sessions that then charge more (80% or 100%)
 - don't worry to much about it, LFP chemistry is fairly forgiving (as compared to other chemistries).
 
 Information on best practices vary in detail from month-to-month it seems, but the core ideas so far seems stable.
