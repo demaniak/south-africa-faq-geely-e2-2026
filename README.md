@@ -87,8 +87,8 @@ This is considered to be a pretty large load for a residential circuit, but shou
 ### In Public
 For public **AC** charging, you will often require your own Type 2 AC charge cable. There are local persons and operations that can supply this.
 
-The E2 AC charging is capped at 7kW/h, so unless you are future-proofing for another car that can take more, there is no point to buy a higher rated cable.
-BUT please note, higher rated cables (like 11kW) might only do +-3Kw/h per phase - impact being that you will max be able to achieve 3kW/h charging with such a cable. Read the fine print before buying!
+The E2 AC charging is capped at 7kW/h (single phase), so unless you are future-proofing for another car that can take more, there is no point to buy a higher rated cable.
+BUT ALSO please note, higher rated cables (like 11kW) might only do +-3Kw/h per phase - impact being that you will max be able to achieve 3kW/h charging with such a cable on the E2 (because it only does single phase AC). Read the fine print before buying!
 
 Length is your choice, but know that longer cable probably means more voltage drop (losses), so you might end up paying more for the same final battery SOC.
 
