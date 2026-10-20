@@ -157,10 +157,11 @@ Various items you might want to consider buying after market:
 - Interior car mats (there are local suppliers that do fit perfectly)
 - Boot mat  (there are local suppliers that do fit perfectly)
 - Frunk liner
-- Center console (top and bottom) silicon covers
+- Center console (top and bottom) silicon insets
 - Door storage silicon inserts
 - Boot light
 - Car seat covers (there are local suppliers, that *almost* fit perfectly)
+- Additional rubber sealers for doors, trunk and frunk (froot)
 
 These items are generally available from overseas online sellers via Temo and AliExpress, and some as noted, from local producers/suppliers.
 
