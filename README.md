@@ -43,7 +43,7 @@ If you are driving something else, the info MIGHT be applicable, or it might not
 ## Apps
 ### Must have
 - GridCars (ChargePocket - [Apple](https://apps.apple.com/za/app/chargepocket/id6739615357) and [Android](https://play.google.com/store/apps/details?id=net.gridcars.chargepocket&hl=en_ZA)). Also obtain their RFID card
-- Rubicon. Also obtain their RFID card
+- Rubicon ([Android](https://play.google.com/store/apps/details?id=com.onroad.rubicon&hl=en-ZA), [Apple](https://apps.apple.com/za/app/rubicon-charge/id6478161992) ). Also obtain their RFID card
 - A Better Route Planner (ABRP). *I am NOT affiliated with the authors in anyway, it is just a really useful app*
 
 ### Optionals (probably)
