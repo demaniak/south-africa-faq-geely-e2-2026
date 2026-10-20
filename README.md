@@ -8,6 +8,8 @@ The information herein is specific to the Geely E2 (Aspire and Apex) variants la
 
 If you are driving something else, the info MIGHT be applicable, or it might not be. Usage is at your own risk.
 
+No assertion is made regarding accuracy or correctness. The information here is gleaned from the E2 Owner-Driver community, based on hard won experience and other sources. We might be fooling ourselves sometimes. Verify everything!
+
 **The authors are not associated with Geely, and/or any other specific product or entity that might be mentioned here. This is solely for Geely E2 owners/driver informational benefit, and should not be take as instruction or advise.**
 
 
